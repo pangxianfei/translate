@@ -1,0 +1,29 @@
+{
+    "name": "tmiac/translate",
+    "description": "一个集成百度翻译，有道翻译，Google 翻译的PHP composer package",
+    "require": {
+        "guzzlehttp/guzzle": "~7.3",
+        "stichoza/google-translate-php": "^3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3",
+        "mockery/mockery": "^0.9.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PangXianFei",
+            "email": "421339244@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tmaic\\Translate\\": "./src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tmaic\\Translate\\Tests\\": "./tests"
+        }
+    }
+}
