@@ -2,7 +2,7 @@
     "name": "tmiac/translate",
     "description": "一个集成百度翻译，有道翻译，Google 翻译的PHP composer package",
     "require": {
-        "guzzlehttp/guzzle": "~7.3",
+        "guzzlehttp/guzzle": "~7.2",
         "stichoza/google-translate-php": "^3.2"
     },
     "require-dev": {
