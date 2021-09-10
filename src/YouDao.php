@@ -45,7 +45,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $string
      * @param bool $source  返回原数据结构
      * @return mixed
@@ -65,7 +65,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $string
      * @return array
      */
@@ -85,7 +85,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $language
      * @return mixed
      * @throws TranslateException
@@ -103,7 +103,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $result
      * @return mixed
      * @throws TranslateException
@@ -129,7 +129,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $string
      * @param $time
      * @return string
@@ -147,7 +147,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $attr
      * @param $value
      * @return $this
@@ -161,7 +161,7 @@ class YouDao implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $attr
      * @return mixed
      */

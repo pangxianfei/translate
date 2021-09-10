@@ -4,8 +4,7 @@ namespace Tmaic\Translate\Exceptions;
 /**
  *  SmsException.php
  *
- * @author szm19920426@gmail.com
- * $Id: SmsException.php 2017-08-16 上午11:05 $
+ * @author 421339244@qq.com
  */
 class TranslateException extends \Exception
 {

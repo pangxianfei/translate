@@ -47,7 +47,7 @@ class Google implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $string
      * @param bool $source  返回原数据结构
      * @return mixed
@@ -70,7 +70,7 @@ class Google implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $language
      * @return mixed
      * @throws TranslateException
@@ -93,7 +93,7 @@ class Google implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $attr
      * @param $value
      * @return $this
@@ -107,7 +107,7 @@ class Google implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $attr
      * @return mixed
      */

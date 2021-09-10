@@ -61,7 +61,7 @@ class TranslateService implements TranslateInterface
     /**
      * 执行翻译
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $string
      * @param bool $source 原数据，针对google
      * @return mixed
@@ -82,7 +82,7 @@ class TranslateService implements TranslateInterface
     /**
      * 执行请求
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $string
      * @param $driver
      * @return mixed
@@ -114,7 +114,7 @@ class TranslateService implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $attr
      * @param $value
      * @return $this
@@ -128,7 +128,7 @@ class TranslateService implements TranslateInterface
 
     /**
      * @author Tmaic
-     * @email szm19920426@gmail.com
+     * @email 421339244@qq.com
      * @param $attr
      * @return mixed
      */
